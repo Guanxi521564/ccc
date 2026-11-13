@@ -1,0 +1,23 @@
+#来源：https://support.apple.com/en-us/101555
+#搜索：AppleIntelligence,Siri,andSearch
+DOMAIN-SUFFIX,smoot.apple.com
+  #搜索服务：Siri/Spotlight/Lookup/Safari/News/信息/音乐（TCP443）
+DOMAIN,guzzoni.apple.com
+  #Siri与听写（TCP443）
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,apple-relay.fastly-edge.com
+  #AppleIntelligenceExtensions（TCP/UDP443）
+DOMAIN,apple-relay.apple.com
+  #PrivateCloudCompute（PCC）（TCP/UDP443）
+DOMAIN,apple-relay.cloudflare.com
+  #PrivateCloudCompute（PCC）（TCP/UDP443）
+DOMAIN,cp4.cloudflare.com
+  #PrivateCloudCompute（PCC）（TCP/UDP443）
+#DOMAIN,gateway.icloud.com
+#DOMAIN,gateway.fe2.apple-dns.net
+#DOMAIN,seed.siri.apple.com
+#DOMAIN-SUFFIX,v.aaplimg.com
+#DOMAIN,seed-siri-apple-com.v.aaplimg.com
+#DOMAIN,smoot-searchv2-aapse1c.v.aaplimg.com
+

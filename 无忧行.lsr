@@ -1,0 +1,26 @@
+# UpdateTime: 2026-07-01 18:05:34
+# RuleCount: 24
+DOMAIN, app.jegotrip.com.cn
+DOMAIN, app-product.jegotrip.com.cn
+DOMAIN, app3.jegotrip.com.cn
+DOMAIN, aws.jegotrip.com.cn
+DOMAIN, cdn.jegotrip.com.cn
+DOMAIN, cp.jegotrip.com.cn
+DOMAIN, customertcp.jegotrip.com.cn
+DOMAIN, hotel.jegotrip.com.cn
+DOMAIN, oss.jegotrip.com.cn
+DOMAIN, video.jegotrip.com.cn
+DOMAIN, sandbox.itunes.apple.com
+DOMAIN, clients3.google.com
+DOMAIN, bugly.qq.com
+DOMAIN, gdt.qq.com
+DOMAIN, aspect-upush.umeng.com
+DOMAIN, oslogs.umeng.com
+IP-CIDR, 16.162.59.136/32, no-resolve
+IP-CIDR, 18.162.71.27/32, no-resolve
+IP-CIDR, 18.163.199.29/32, no-resolve
+IP-CIDR, 18.167.45.112/32, no-resolve
+IP-CIDR, 43.198.64.129/32, no-resolve
+IP-CIDR, 54.222.242.252/32, no-resolve
+IP-CIDR, 54.222.246.1/32, no-resolve
+IP-CIDR6, 2400:7fc0:8208:b600:9a82:48cd:a56:783c/128, no-resolve
