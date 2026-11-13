@@ -1,0 +1,23 @@
+[General]
+version = 1.0
+description = SafePal 分流规则 for Loon (适用于 SafePal 官网、支持中心、开发者文档和 App 相关域名)
+
+[Rule]
+# SafePal 官网和核心服务
+HOST,safepal.com,PROXY
+HOST,www.safepal.com,PROXY
+HOST,m.safepal.com,PROXY
+HOST,blog.safepal.com,PROXY
+
+# SafePal 支持中心和知识库
+HOST,safepalsupport.zendesk.com,PROXY
+
+# SafePal 开发者文档和 API 相关
+HOST,devdocs.safepal.com,PROXY
+HOST,docs.safepal.io,PROXY
+
+# SafePal 移动 App 和扩展相关域名
+HOST-SUFFIX,safepal.io,PROXY
+
+[MITM]
+hostname = safepal.com,www.safepal.com,m.safepal.com,blog.safepal.com,safepalsupport.zendesk.com,devdocs.safepal.com,docs.safepal.io,*.safepal.io
